@@ -1,0 +1,6 @@
+[submodule "oracle_arm"]
+	path = oracle_arm
+	url = https://github.com/n0thing2speak/oracle_arm.git
+[submodule "oneindex"]
+	path = oneindex
+	url = https://github.com/twbworld/oneindex.git
